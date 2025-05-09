@@ -1,0 +1,1 @@
+This repo doesn't compile as it's missing patches for the subprojects. I'm posting to serve as a reference for how to setup lean web apps that use WebGL 2 from Wasm with manual bindings, you only need clang, no emscripten.
